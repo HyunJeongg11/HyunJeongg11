@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJeong11)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/HyunJeongg11)https://github.com/HyunJeongg11)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJeong11)](https://github.com/HyunJeongg11)
 	
