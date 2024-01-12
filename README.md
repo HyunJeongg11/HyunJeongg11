@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJeong11)](https://github.com/HyunJeongg11)
 
-![qkek](https://github.com/hyunjeongg11/HyunJeongg11/assets/156268586/49d9f4c2-e82b-4c94-bd43-79a82efded89)
